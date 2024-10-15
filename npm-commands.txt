@@ -1,0 +1,9 @@
+# npm commands
+
+npx create-react-app .
+npm init 
+npm i mysql express
+npm i axios
+npm i cors
+npm install react-bootstrap bootstrap
+npm install sweetalert2
